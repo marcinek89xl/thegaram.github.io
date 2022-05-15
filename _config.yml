@@ -1,13 +1,13 @@
 # Site settings
-title:          Rain
+title:          
 description:    "Rain is a simple and clean Jekyll theme with focus on content."
 url:            https://github.com/inelaah/rain
 
 # Author
 author:
-  name:         Inela Avdic Hukic
-  email:        inelaah@gmail.com
-  url:          https://inelaah.com
+  name:         Péter Garamvölgyi
+  email:        peter.garamvolgyi@hotmail.com
+  url:          --
 
 # Build settings
 markdown:       kramdown
@@ -21,11 +21,11 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-paginate
-  # - jemoji #Uncomment this to allow emoji in your post
+  - jemoji # Uncomment this to allow emoji in your post
 
 # Permalinks
 permalink:      /:year-:month-:day/:title
-paginate:       5
+paginate:       100
 
 # Related posts settings
 related_posts_section:
@@ -34,7 +34,7 @@ related_posts_section:
 
 # Links to social media
 social:
-  email: inelaah@gmail.com
-  github: https://github.com/inelaah
-  twitter: https://twitter.com
-  linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131
+  # email: inelaah@gmail.com
+  github: https://github.com/Thegaram
+  twitter: https://twitter.com/thegaram33
+  # linkedin: https://ba.linkedin.com/in/inela-avdic-hukic-322354131

@@ -2,6 +2,7 @@
 layout: post
 title:  "Introducing Rain"
 author: "Inela"
+published: false
 ---
 
 Rain is a simple and clean [Jekyll](https://jekyllrb.com/) theme with focus on content. This theme is heavily inspired by [Tale](https://github.com/chesterhow/tale) theme.
